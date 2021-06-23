@@ -9,3 +9,5 @@ SETUP
  1. You will need Internet connection.
  2. You will also need python 
  3. first you need to clone the repository https://github.com/Hassan-abdi-dev/picth-here.git
+ 4. Clone the project.
+ 5. get into project folder 
