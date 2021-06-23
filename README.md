@@ -11,9 +11,8 @@ SETUP
  3. first you need to clone the repository https://github.com/Hassan-abdi-dev/picth-here.git
  4. Clone the project.
  5. get into project folder 
- 6.  On your bash terminal Run the command:-
-
-  $ chmod +x start.sh
-  $ ./start.sh
+ 6.  On your bash terminal Run the command:
+         $ chmod +x start.sh
+         $ ./start.sh
 
 
