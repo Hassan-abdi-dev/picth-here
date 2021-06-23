@@ -8,4 +8,4 @@ SETUP
 
  1. You will need Internet connection.
  2. You will also need python 
- 3. first you need to clone the repository
+ 3. first you need to clone the repository https://github.com/Hassan-abdi-dev/picth-here.git
