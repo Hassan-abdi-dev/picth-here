@@ -16,5 +16,9 @@ SETUP
          $ ./start.sh
 
 AUTHOR
+
 Hassan Abdi
 
+Support and Contact
+
+emperadam@gmail.com
