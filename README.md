@@ -15,4 +15,6 @@ SETUP
          $ chmod +x start.sh
          $ ./start.sh
 
+AUTHOR
+Hassan Abdi
 
